@@ -4,17 +4,12 @@
 
 ## 🧰 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=verilog" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img src="https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-003366?style=for-the-badge"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,bash,matlab,linux,git,docker,vscode,tensorflow" />
+  <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-003366?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vivado-ED1C24?style=flat-square&logo=xilinx&logoColor=white"/>
 </p>
 
 ---
