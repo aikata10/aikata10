@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/SystemVerilog-003366?style=for-the-badge"/>
 </p>
+
 ---
 
 ## 🔬 Research Focus
