@@ -1,9 +1,4 @@
-# 👋 Hi, I’m **Aikata**
-
 **PhD Candidate in Computer Science**  
-Researcher in **Post-Quantum Cryptography, Fully Homomorphic Encryption (FHE), and Hardware Security**  
-Based in Europe (TU Graz / research collaborations)
-
 🌐 **Portfolio:** https://aikata10.github.io/  
 📄 **Publications & Patents:** https://aikata10.github.io/patents_publications.html
 
@@ -11,7 +6,7 @@ Based in Europe (TU Graz / research collaborations)
 
 ## 🔬 Research Focus
 
-- Post-Quantum Cryptography & FHE
+- Post-Quantum Cryptography & Fully Homomorphic Encryption
 - Hardware Acceleration for Cryptography
 - Side-Channel & Fault Analysis
 - Privacy-Preserving Machine Learning
