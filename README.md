@@ -32,6 +32,9 @@
 |---|---|---|
 | **[REED](https://github.com/aikata10/REED)** | Chiplet-based accelerator for Fully Homomorphic Encryption | C++ · Python |
 | **[Pasta_RISCV](https://github.com/aikata10/Pasta_RISCV)** | RISC-V integration with the cipher “Pasta” crypto primitive | SystemVerilog · Verilog · Python |
+| **[sigmoid](https://github.com/aikata10/sigmoid)** | FHERMA Challenge Winning solution- Sigmoid| C++ · CMake |
+| **[matrix-mult](https://github.com/aikata10/matrix-mult)** | FHERMA Challenge Winning solution- Matrix Multiplication | C++ |
+| **[signum](https://github.com/aikata10/signum)** | FHERMA Challenge Winning solution- Signum | C++ |
 
 
 
@@ -39,11 +42,9 @@
 
 | Repo | What it is | Stack |
 |---|---|---|
-| **[sigmoid](https://github.com/aikata10/sigmoid)** | FHERMA Challenge solution repository | C++ · CMake |
-| **[matrix-mult](https://github.com/aikata10/matrix-mult)** | Matrix multiplication challenge code | C++ |
-| **[signum](https://github.com/aikata10/signum)** | Signum challenge repository | C++ |
+| **[SASTA-DFA](https://github.com/aikata10/SASTA)** | Fault Analysis of  Hybrid Homomorphic Encryption|  C++ · C · Assembly |
 | **[Attacks](https://github.com/aikata10/Attacks)** | Cryptanalysis scripts and tooling | Java · C |
 | **[ACE-SIMECK](https://github.com/aikata10/ACE-SIMECK)** | Cipher analysis + MILP exploration | Jupyter · Python |
-| **[DESIV-implementation-codes](https://github.com/aikata10/DESIV-implementation-codes)** | Supplementary implementation repository |
+| **[DESIV-implementation-codes](https://github.com/aikata10/DESIV-implementation-codes)** | Supplementary implementation repository | Python |
 ---
 
