@@ -1,7 +1,15 @@
 **PhD Candidate in Computer Science**  
-🌐 **Portfolio:** https://aikata10.github.io/  
+🌐 **Profile:** https://aikata10.github.io/  
 📄 **Publications & Patents:** https://aikata10.github.io/patents_publications.html
 
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=py)
+![SystemVerilog](https://skillicons.dev/icons?i=verilog)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Makefile](https://skillicons.dev/icons?i=make)
+![C](https://skillicons.dev/icons?i=c)
 ---
 
 ## 🔬 Research Focus
@@ -14,38 +22,53 @@
 
 ---
 
-## 🚀 Highlighted GitHub Projects
+##  ⭐ Highlighted GitHub Projects
 
-### ⭐ Research & Acceleration
-- **REED** — Chiplet-based accelerator for Fully Homomorphic Encryption (C++/Python) — FHE research artifact :contentReference[oaicite:1]{index=1}
-- **Pasta_RISCV** — RISC-V integration with the Cipher “Pasta” crypto primitive (SystemVerilog / Python / Verilog) :contentReference[oaicite:2]{index=2}
+### 🚀 Research & Acceleration
+
+- 🔹 **[REED](https://github.com/aikata10/REED)**  
+  Chiplet-based accelerator for Fully Homomorphic Encryption  
+  *(C++ · Python)*
+
+- 🔹 **[Pasta_RISCV](https://github.com/aikata10/Pasta_RISCV)**  
+  RISC-V integration with the Cipher “Pasta” crypto primitive  
+  *(SystemVerilog · Verilog · Python)*
+
 
 ### 🧠 Cryptanalysis & Challenges
-- **sigmoid** — FHERMA Challenge solution repository (C++/CMake) :contentReference[oaicite:3]{index=3}
-- **matrix-mult** — Matrix multiplication challenge code (C++) :contentReference[oaicite:4]{index=4}
-- **signum** — Signum challenge repository (C++) :contentReference[oaicite:5]{index=5}
-- **Attacks** — Cryptanalysis scripts and tools (Java/C) :contentReference[oaicite:6]{index=6}
-- **ACE-SIMECK** — Cipher analysis and MILP exploration (Jupyter/Notebook) :contentReference[oaicite:7]{index=7}
+
+- 🔹 **[sigmoid](https://github.com/aikata10/sigmoid)**  
+  FHERMA Challenge solution repository  
+  *(C++ · CMake)*
+
+- 🔹 **[matrix-mult](https://github.com/aikata10/matrix-mult)**  
+  Matrix multiplication challenge code  
+  *(C++)*
+
+- 🔹 **[signum](https://github.com/aikata10/signum)**  
+  Signum challenge repository  
+  *(C++)*
+
+- 🔹 **[Attacks](https://github.com/aikata10/Attacks)**  
+  Cryptanalysis scripts and tooling  
+  *(Java · C)*
+
+- 🔹 **[ACE-SIMECK](https://github.com/aikata10/ACE-SIMECK)**  
+  Cipher analysis and MILP exploration  
+  *(Jupyter Notebook · Python)*
+
 
 ### 🛠 Other Work
-- **FHERMA_challenge_solution_blogs** — Markdown writeups for FHERMA challenge solutions :contentReference[oaicite:8]{index=8}
-- **ctf-1** (forked) — CTF challenge related code from de-ci-phe-red-LABS :contentReference[oaicite:9]{index=9}
-- **DESIV-implementation-codes** (pinned from de-ci-phe-red-LABS) — Supplementary repo from your work :contentReference[oaicite:10]{index=10}
 
-*(Tip: Pin up to 6 repositories on your GitHub profile to show these prominently.)*
+- 🔹 **[FHERMA_challenge_solution_blogs](https://github.com/aikata10/FHERMA_challenge_solution_blogs)**  
+  Markdown writeups for FHERMA challenge solutions
 
----
+- 🔹 **[ctf-1](https://github.com/aikata10/ctf-1)**  
+  CTF-related work (forked from de-ci-phe-red-LABS)
 
-## 📊 Languages & Tools You Use
+- 🔹 **[DESIV-implementation-codes](https://github.com/aikata10/DESIV-implementation-codes)**  
+  Supplementary implementation repository
 
-From your repos:
-
-- **C++** — Core algorithm implementations  
-- **Python** — Research tooling, notebooks  
-- **SystemVerilog / Verilog** — Hardware design & integration  
-- **C / Jupyter Notebooks** — Cryptanalysis exploration  
-- **CMake & Makefiles** — Build systems  
-*(Languages inferred from your multiple repos’ language stats.)* :contentReference[oaicite:11]{index=11}
 
 ---
 
