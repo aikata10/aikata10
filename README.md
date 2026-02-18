@@ -11,18 +11,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-</p>
-
-### 🔐 Hardware & EDA
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=verilog" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-</p>
-
-### ⚙️ FPGA / Toolchain
-
-<p align="left">
   <img src="https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/SystemVerilog-003366?style=for-the-badge"/>
 </p>
