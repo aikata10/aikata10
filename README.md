@@ -5,7 +5,7 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,bash,matlab,linux,git,docker,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,bash,matlab,linux,git,docker,vscode,tensorflow?style=flat-square" />
   <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/SystemVerilog-003366?style=flat-square"/>
   <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square"/>
