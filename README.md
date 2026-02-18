@@ -16,10 +16,10 @@
 
 ##  🪁  Research Focus
 
-- Post-Quantum Cryptography & Fully Homomorphic Encryption
-- Hardware Acceleration for Cryptography
-- Side-Channel & Fault Analysis
-- Privacy-Preserving Machine Learning
+- **Post-Quantum Cryptography** & **Fully Homomorphic Encryption**
+- **Hardware Acceleration** for Cryptography
+- **Side-Channel** & **Fault Analysis**
+- **Privacy-Preserving Machine Learning**
 - Cryptographic Challenges & CTF-like research
 
 ---
@@ -32,9 +32,9 @@
 |---|---|---|
 | **[REED](https://github.com/aikata10/REED)** | Chiplet-based accelerator for Fully Homomorphic Encryption | C++ · Python |
 | **[Pasta_RISCV](https://github.com/aikata10/Pasta_RISCV)** | RISC-V integration with the cipher “Pasta” crypto primitive | SystemVerilog · Verilog · Python |
-| **[sigmoid](https://github.com/aikata10/sigmoid)** | FHERMA Challenge Winning solution- Sigmoid| C++ · CMake |
-| **[matrix-mult](https://github.com/aikata10/matrix-mult)** | FHERMA Challenge Winning solution- Matrix Multiplication | C++ |
-| **[signum](https://github.com/aikata10/signum)** | FHERMA Challenge Winning solution- Signum | C++ |
+| **[SIGNMOID](https://github.com/aikata10/sigmoid)** | FHERMA Challenge Winning solution- Sigmoid| C++ · CMake |
+| **[MATRIX-MULT](https://github.com/aikata10/matrix-mult)** | FHERMA Challenge Winning solution- Matrix Multiplication | C++ · CMake |
+| **[SIGNUM](https://github.com/aikata10/signum)** | FHERMA Challenge Winning solution- Signum | C++ · CMake |
 
 
 
